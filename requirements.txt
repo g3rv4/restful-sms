@@ -1,0 +1,14 @@
+Flask==0.10.1
+Flask-RESTful==0.2.11
+Jinja2==2.7.2
+MarkupSafe==0.18
+PyMySQL==0.6.1
+Unidecode==0.04.14
+Werkzeug==0.9.4
+aniso8601==0.82
+gunicorn==18.0
+itsdangerous==0.23
+peewee==2.2.1
+pytz==2013.9
+requests==2.2.1
+six==1.5.2
